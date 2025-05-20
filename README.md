@@ -1,6 +1,6 @@
-# 🧠 Analisador Léxico para Elgol
+# Analisador Léxico para Elgol
 
-## 📘 Sobre
+## Sobre
 
 Este projeto consiste em um **analisador léxico** desenvolvido em Java para a linguagem fictícia **Elgol**.  
 Seu objetivo é identificar tokens válidos de acordo com as regras léxicas da linguagem e reportar erros quando encontrados.  
@@ -8,7 +8,7 @@ Ele é parte fundamental do processo de compilação ou interpretação de códi
 
 ---
 
-## 🔤 Definições da linguagem Elgol
+## Definições da linguagem Elgol
 
 A linguagem **Elgol** possui as seguintes regras léxicas para formação de tokens:
 
