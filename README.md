@@ -44,3 +44,5 @@ Tokens inválidos (símbolos desconhecidos, formatos incorretos, etc.) são dete
 ## Integrantes
 
 Ismael Freitas
+Cleber Lima
+Felipe Rodrigues
